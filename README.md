@@ -15,8 +15,8 @@
 ![image](https://github.com/RianFauza/Lab2Web/assets/115771479/84730ea1-ecaa-4db3-a268-790f32eba55f)
 
 # Berikut Hasil percobaan Pengujian Validator pada Css Eksternal
-![Screenshot (39)](https://github.com/RianFauza/Lab2Web/assets/115771479/81530a98-24dd-4840-9ef0-4670e2b29a3b)
-![Screenshot (40)](https://github.com/RianFauza/Lab2Web/assets/115771479/0c1f93af-d494-4529-b813-b20900350571)
+![image](https://github.com/RianFauza/Lab2Web/assets/115771479/b23c3a0d-afd9-478a-96cd-073ba26f96b7)
+![image](https://github.com/RianFauza/Lab2Web/assets/115771479/51c07925-22f9-4703-a0d6-4801545b2526)
 
 # Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
